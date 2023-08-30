@@ -2,6 +2,10 @@
 
 Look at the [Blog Post]()  and [YouTube Video](https://youtu.be/XX-4A4xkRB8) to learn more.
 
+Move Fast and Break Nothing. End-to-end typesafe APIs made easy. Experience the full power of TypeScript inference to boost productivity for your NUXT full-stack application.
+
+Use this project to get a Nuxt 3 application up and running with tRpc using the trpc-nuxt module.
+
 ## Setup
 
 Make sure to install the dependencies:
