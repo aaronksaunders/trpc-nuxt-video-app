@@ -1,6 +1,6 @@
 # Nuxt 3 tRPC-Nuxt Minimal Starter Template
 
-Look at the [Blog Post]()  and [YouTube Video](https://youtu.be/XX-4A4xkRB8) to learn more.
+Look at the [Blog Post](https://dev.to/aaronksaunders/build-a-full-stack-typescript-application-with-nuxt-and-trpc-4gag)  and [YouTube Video](https://youtu.be/XX-4A4xkRB8) to learn more.
 
 <img src="https://github.com/aaronksaunders/trpc-nuxt-video-app/blob/main/Mobile%20Development%20with%20vue%2C%20Vite%20and%20ionic%20Capacitor%20(11).png" />
 
